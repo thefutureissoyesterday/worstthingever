@@ -1,7 +1,8 @@
 <Head>
    <link rel="stylesheet" type="text/css" href="https://blizzardcss.ct8.pl/blizzardbutton.css" />
 <title> Why? </title>
-<style> body{background-color: red;}
+  <style> body{background-color: red;}
+    body{font-family: 'Helvetica', sans-serif;}
   button{width: 500px;}
 </style>
 </Head>
